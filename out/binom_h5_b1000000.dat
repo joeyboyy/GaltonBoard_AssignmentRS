@@ -1,0 +1,9 @@
+0	31250	550.213	# 51
+1	156250	1148.2	# 376
+2	312500	1465.75	# 102
+3	312500	1465.75	# 295
+4	156250	1148.2	# 403
+5	31250	550.213	# 168
+
+# mean squared error as asked in assignment: 7.87487e-05
+# maximum deviation simulation/binomial over all k: 403
